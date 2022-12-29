@@ -16,6 +16,8 @@
   --- App.js
   
   --- characterControls.js
+  
+  --- ...
 
 1. App.js: Import model from public directory
 1. utils.js: get keys from keyboard when user press
